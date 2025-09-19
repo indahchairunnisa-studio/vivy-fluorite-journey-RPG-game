@@ -32,6 +32,7 @@ This Japan themed game is inspired by the anime Vivy: Fluorite Eye's Song.
 📂 **Installation**
   - Download the game release from the repository.
   - Extract the files.
+  - Password: lalicha97
   - Run the executable (Vivy Fluorite Journey_v1.0.exe).
 
 📜 License
