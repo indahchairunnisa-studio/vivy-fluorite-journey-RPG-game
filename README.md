@@ -3,6 +3,11 @@ An RPG game created using RPG Maker MZ. Vivy: Fluorite Journey tells the story o
 
 This Japan themed game is inspired by the anime Vivy: Fluorite Eye's Song.
 
+**⚠️ Important Notice!**
+  - **🔻 The full game files are NOT available in this main repository.**
+  - **✅ You can only download playable game from the Releases section of this repository.**
+  - **❌ This repository cannot be cloned to obtain the game files because the original folder contains too many assets.**
+
 🎮 **Features:**
   - Story driven RPG with a complex linear narrative.
   - Exploration: Move freely across maps and discover hidden interactions.
